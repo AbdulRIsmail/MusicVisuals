@@ -1,89 +1,35 @@
 # Music Visualiser Project
 
-Name:
+Name: Abdulrahman Ismail
 
-Student Number: 
-
-## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
+Student Number: C18453976
 
 # Description of the assignment
+A beautiful program that visualises multiple shapes all beautifully and elegantly synchronized into one output. It syncs with the music and "dances" with it. Best part is... you can control the entire program with a GUI... yes everything!
 
 # Instructions
+Simply compile the program and run it! The GUI and the program will both start. 
 
 # How it works
+When the program is first ran, all the shapes load together, from there on using the control panel I made (GUI) you customize everything from hiding/displaying some shapes and changing the colour with ease.
+
+You have a general settings that controls all the shapes, You can:
+- Hide / Show all
+- Color (change everything at once)
+- Go back 10s or skip 10s
+- Pause / Play
+- Music tracker (you can see a music player, like YouTube)
+
+You then have separate shapes you can control, when you control these, they're individual and does not affect others
+One of the shapes you can control the speed, *I show it in the demo video*
+
+Image Preview
+![preview1](https://i.gyazo.com/f231fdf2c3bb760f4665e4365891e42f.png)
+
+Demo Video -- *make sure to watch till the end for the rainbow effect!!!*
+[![YouTube](https://i.gyazo.com/baa2a77f8634b8b4afd4adad2ce6b795.png)](https://youtu.be/VfDBsDO9HGk)
 
 # What I am most proud of in the assignment
+I am most proud of the creating a control panel (GUI). So much research went into this and I think this is what completes the program, having a GUI simply makes the program more elegant, the fact you're able to see all the available options and full control is sweet! 
 
-# Markdown Tutorial
-
-This is *emphasis*
-
-This is a bulleted list
-
-- Item
-- Item
-
-This is a numbered list
-
-1. Item
-1. Item
-
-This is a [hyperlink](http://bryanduggan.org)
-
-# Headings
-## Headings
-#### Headings
-##### Headings
-
-This is code:
-
-```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-So is this without specifying the language:
-
-```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-This is an image using a relative URL:
-
-![An image](images/p8.png)
-
-This is an image using an absolute URL:
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
-
-This is a youtube video:
-
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-
-This is a table:
-
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-
+Also adding the music track in the GUI, let's you know how far into the music you are, I thought this was a pretty sweet finish touch.
