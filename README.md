@@ -30,6 +30,6 @@ Demo Video -- *make sure to watch till the end for the rainbow effect!!!*
 [![YouTube](https://i.gyazo.com/baa2a77f8634b8b4afd4adad2ce6b795.png)](https://youtu.be/VfDBsDO9HGk)
 
 # What I am most proud of in the assignment
-I am most proud of the creating a control panel (GUI). So much research went into this and I think this is what completes the program, having a GUI simply makes the program more elegant, the fact you're able to see all the available options and full control is sweet! 
+I am most proud of the creating a control panel (GUI). So much research went into this and I think this is what completes the program, having a GUI simply makes the program more elegant, the fact you're able to see all the available options and have full control is sweet! 
 
 Also adding the music track in the GUI, let's you know how far into the music you are, I thought this was a pretty sweet finish touch.
